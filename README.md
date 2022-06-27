@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhirajkahol
+- 👋 Hi, I’m @dhirajkahol, a Web3 Development enthusiast
 - 👀 I’m interested in a career in Blockchain programming
 - 🌱 I’m currently learning Solidity, Javascript, MongoDB, Express, React, NodeJS, Ethereum, Smart Contracts, React Dapps, Blockchain Cryptography, Ethereum Virtual Machine (EVM), Ethereum Tokens, ERC20 and ERC721 (NFT), Decentralized Finance (Defi)
 - 💞️ I’m looking to collaborate on Blockchain projects
